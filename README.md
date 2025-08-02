@@ -21,6 +21,4 @@ Key highlights include:
 QR codes are widely used for sharing information in a contactless way. This tool makes it easy to create custom QR codes that can be shared digitally or printed for physical use.
 
 ## Screenshots
-![QR Code Generator Preview](images/img1.png)
-![QR Code Generator Preview](images/img2.png)
-![QR Code Generator Preview](images/img3.png)
+![QR Code Generator Preview](Images/img1.png)
